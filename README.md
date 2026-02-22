@@ -18,30 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div align="center" class="icons-social" style="margin-left: 10px;">
+<p align="center">
 
-    <a target="_blank" rel="noopener noreferrer"
-       href="https://www.linkedin.com/in/castanedanestor-javadev/"
-       style="margin-left: 10px;">
-        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-    </a>
+<a href="https://www.linkedin.com/in/castanedanestor-javadev/">
+  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
 
-    <a target="_blank" rel="noopener noreferrer"
-       href="https://github.com/Neo3691102"
-       style="margin-left: 10px;">
-        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-    </a>
+<a href="https://github.com/Neo3691102">
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
+</a>
 
-    <a target="_blank" rel="noopener noreferrer"
-       href="https://www.youtube.com/@Nescript-369"
-       style="margin-left: 10px;">
-        <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube">
-    </a>
+<a href="https://www.youtube.com/@Nescript-369">
+  <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"/>
+</a>
 
-    <a target="_blank" rel="noopener noreferrer"
-       href="TU_LINK_DE_CV_AQUI"
-       style="margin-left: 10px;">
-        <img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="CV">
-    </a>
-
-</div>
+</p>

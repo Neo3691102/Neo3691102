@@ -1,6 +1,6 @@
 ## Hola me llamo Nestor👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neo3691102&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neo3691102&label=Profile%20views&color=0e75b6&style=flat" alt="Neo3691102" /> </p>
 
 <!--- 🔭 I’m currently working on ... - 👯 I’m looking to collaborate on ... - ⚡ Fun fact: ...-->
 - 🌱 Actualmente sigo aprendiendo Java 

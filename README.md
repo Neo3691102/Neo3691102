@@ -2,11 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neo3691102&label=Profile%20views&color=0e75b6&style=flat" alt="Neo3691102" /> </p>
 
-<!--- 🔭 I’m currently working on ... - 👯 I’m looking to collaborate on ... - ⚡ Fun fact: ...-->
+<!--- . - 👯 I’m looking to collaborate on ... - ⚡ Fun fact: ...-->
 - 🌱 Actualmente sigo aprendiendo Java 
 - 🤔 Estoy buscando ayuda para encontrar trabajo como desarrollador
 - 💬 Preguntame sobre Java y sus frameworks, Thymeleaf, Javascript, React, bases de datos relacionales y EC2 de AWS
 - 📫 Como contactarme nescript369@gmail.com
+- 🔭 Echa un vistazo a mi <a href="portafoliowebneo369.netlify.app">portafolio</a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

@@ -7,7 +7,7 @@
 - 🤔 Estoy buscando ayuda para encontrar trabajo como desarrollador
 - 💬 Preguntame sobre Java y sus frameworks, Thymeleaf, Javascript, React, bases de datos relacionales y EC2 de AWS
 - 📫 Como contactarme nescript369@gmail.com
-- 🔭 Echa un vistazo a mi <a href="portafoliowebneo369.netlify.app">portafolio</a>
+- 🔭 Echa un vistazo a mi <a href="https://portafoliowebneo369.netlify.app/">portafolio</a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

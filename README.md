@@ -8,7 +8,20 @@
 - 💬 Preguntame sobre Java y sus frameworks, Thymeleaf, Javascript, React, bases de datos relacionales y EC2 de AWS
 - 📫 Como contactarme nescript369@gmail.com
 
-- <!--- stats & Trophy (start) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,figma,html,java,js,linux,mongodb,mysql,nodejs,postman,react,ts,vscode,postgresql" />
+  </a>
+</p>
+
+<!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">

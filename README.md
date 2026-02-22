@@ -2,11 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neo3691102&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-
-
-
-
-
 <!--- 🔭 I’m currently working on ... - 👯 I’m looking to collaborate on ... - ⚡ Fun fact: ...-->
 - 🌱 Actualmente sigo aprendiendo Java 
 - 🤔 Estoy buscando ayuda para encontrar trabajo como desarrollador
@@ -15,15 +10,15 @@
 
 <p align="center">
 <h3>Enlace a mis redes sociales</h3>
-<a href="https://www.linkedin.com/in/castanedanestor-javadev/">
+<a href="https://www.linkedin.com/in/castanedanestor-javadev/" target="_blank">
   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
-<a href="https://github.com/Neo3691102">
+<a href="https://github.com/Neo3691102" target="_blank">
   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
 </a>
 
-<a href="https://www.youtube.com/@Nescript-369">
+<a href="https://www.youtube.com/@Nescript-369" target="_blank">
   <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"/>
 </a>
 

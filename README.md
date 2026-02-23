@@ -44,6 +44,14 @@
 </p>
 <!--- stats (end) -->
 
+<!--Proyectos-->
+## Proyectos
+1.Cliente REST <a href="https://github.com/Neo3691102/clienteRESTThymeleaf">Ir al repositorio</a>
+Aplicacion que nos ayuda a consumir servicio REST para traer informacion desde una base de datos y mostrarla a través de vistas HTML usando Thymeleaf.
+2.Biblioteca <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
+Aplicacion gradle en capas, -Patrones de diseño Singleton y Factory Method -Base de datos MySQL -Persistencia con JPA/Hibernate -Dockerizacion -Pruebas Junit 5.
+<!--Fin Proyectos-->
+
 <p align="center">
 <h3>Enlace a mis redes sociales</h3>
 <a href="https://www.linkedin.com/in/castanedanestor-javadev/" target="_blank">

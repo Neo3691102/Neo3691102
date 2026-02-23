@@ -48,31 +48,31 @@
 ## Proyectos
 
 1. **Cliente REST** <a href="https://github.com/Neo3691102/clienteRESTThymeleaf">Ir al repositorio</a>
-   - Aplicacion que nos ayuda a consumir servicio REST para traer informacion desde una base de datos y mostrarla a través de vistas HTML usando Thymeleaf.
+- Aplicacion que nos ayuda a consumir servicio REST para traer informacion desde una base de datos y mostrarla a través de vistas HTML usando Thymeleaf.
 
 2. **Servicio REST** <a href="https://github.com/Neo3691102/ProyectoSpringBootBasico/tree/modulo65-serviciorest">Ir al repositorio</a>
-   - Aplicacion maven creada con springboot con perfiles de pruebas y produccion con persistencia usando JPA/Hibernate a  bases de datos H2(pruebas) o MySQL(produccion) através de peticiones REST.
+- Aplicacion maven creada con springboot con perfiles de pruebas y produccion con persistencia usando JPA/Hibernate a  bases de datos H2(pruebas) o MySQL(produccion) através de peticiones REST.
 
 3. **Biblioteca** <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
 - Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit5. 
 
 4. **Sistema de contactos** <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
-   - Sistema con arquitectura MVC con maven para manejar contactos el cual consiste en un CRUD para el manejo de la información. Con persistencia a base de datos MySQL y Thymeleaf para el front-end.
+- Sistema con arquitectura MVC con maven para manejar contactos el cual consiste en un CRUD para el manejo de la información. Con persistencia a base de datos MySQL y Thymeleaf para el front-end.
 
 5. **Persistencia con JDBC** <a href="https://github.com/Neo3691102/ConexionBDMySQL">Ir al repositorio</a>
-   - Aplicacion básica con manejo de dependencias con gradle donde nos conectamos a una base de datos MySQL con JDBC para mostrar informacion.
+- Aplicacion básica con manejo de dependencias con gradle donde nos conectamos a una base de datos MySQL con JDBC para mostrar informacion.
 
 6. **Implementacion de patron de diseño Singleton** <a href="https://github.com/Neo3691102/Singleton">Ir al repositorio</a>
-   - Uso de patron de diseño Singleton que consta de un método para poder instanciar la clase Singleton una sola vez y crear varios objetos con el mismo hashCode.
+- Uso de patron de diseño Singleton que consta de un método para poder instanciar la clase Singleton una sola vez y crear varios objetos con el mismo hashCode.
   
 7. **Implementacion de patrones de diseño estructural** <a href="https://github.com/Neo3691102/PatronesDeDisenio_ll">Ir al repositorio</a>
-   - Uso de patrones de diseño estructural: decorator, proxy. Y patrones de comportamiento: observer y estado.
+- Uso de patrones de diseño estructural: decorator, proxy. Y patrones de comportamiento: observer y estado.
 
 8. **Pruebas unitarias con JUnit** <a href="https://github.com/Neo3691102/PruebasJUnit">Ir al repositorio</a>
-   - Aplicacion de calculadora la cual se implementan pruebas usando JUnit 5, se usan anotaciones del ciclo de pruebas como BeforeAll y Test.
+- Aplicacion de calculadora la cual se implementan pruebas usando JUnit 5, se usan anotaciones del ciclo de pruebas como BeforeAll y Test.
   
 9. **Sistema de contactos** <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a> 
-   - Contactos es una aplicación web empresarial desarrollada con Java 25 y Spring Boot 4.0.0, que implementa un sistema CRUD completo para la gestión de contactos. El sistema utiliza renderizado del lado del servidor (SSR) con Thymeleaf y persistencia relacional mediante Spring Data JPA y MySQL.
+- Contactos es una aplicación web empresarial desarrollada con Java 25 y Spring Boot 4.0.0, que implementa un sistema CRUD completo para la gestión de contactos. El sistema utiliza renderizado del lado del servidor (SSR) con Thymeleaf y persistencia relacional mediante Spring Data JPA y MySQL.
 
 10. **Patron de diseño Builder** <a href="https://github.com/Neo3691102/Builder">Ir al repositorio</a>
    - Este proyecto implementa el Patrón de Diseño Builder utilizando Java, aplicándolo a la construcción de un objeto Casa con atributos obligatorios y opcionales.

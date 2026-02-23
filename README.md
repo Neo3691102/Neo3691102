@@ -54,7 +54,7 @@
    - Aplicacion maven creada con springboot con perfiles de pruebas y produccion con persistencia usando JPA/Hibernate a  bases de datos H2(pruebas) o MySQL(produccion) através de peticiones REST.
 
 3. **Biblioteca** <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
-   - Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit 5. 
+- Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit5. 
 
 4. **Sistema de contactos** <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
    - Sistema con arquitectura MVC con maven para manejar contactos el cual consiste en un CRUD para el manejo de la información. Con persistencia a base de datos MySQL y Thymeleaf para el front-end.

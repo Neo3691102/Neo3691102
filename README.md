@@ -54,8 +54,8 @@
    - Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit 5. 
 4. Sistema de contactos <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
    - Sistema con arquitectura MVC con maven para manejar contactos el cual consiste en un CRUD para el manejo de la información. Con persistencia a base de datos MySQL y Thymeleaf para el front-end.
-5. Conexion a base de datos MySQL <a href="https://github.com/Neo3691102/ConexionBDMySQL">Ir al repositorio</a>
- - Aplicacion con manejo de dependencias con gradle donde nos conectamos a una base de datos MySQL con JDBC
+5. Conexion a base de datos MySQL con JDBC <a href="https://github.com/Neo3691102/ConexionBDMySQL">Ir al repositorio</a>
+  - Aplicacion básica con manejo de dependencias con gradle donde nos conectamos a una base de datos MySQL con JDBC para mostrar informacion.
 <!--Fin Proyectos-->
 
 <p align="center">

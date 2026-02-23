@@ -108,8 +108,9 @@
    - Sistema desarrollado bajo la arquitectura de capas para el manejo de un sistema de gestion de tareas, se pueden realizar operaciones CRUD para operar con los registros en una base de datos, para el front-end se usa Java FX.
 <!--Fin Proyectos-->
 
-<p align="center">
 ## Enlace a mis redes sociales
+<p align="center">
+
 <a href="https://www.linkedin.com/in/castanedanestor-javadev/" target="_blank">
   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>

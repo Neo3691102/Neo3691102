@@ -51,10 +51,11 @@
 2. Servicio REST <a href="https://github.com/Neo3691102/ProyectoSpringBootBasico/tree/modulo65-serviciorest">Ir al repositorio</a>
    - Aplicacion maven creada con springboot con perfiles de pruebas y produccion con persistencia usando JPA/Hibernate a  bases de datos H2(pruebas) o MySQL(produccion) através de peticiones REST.
 3. Biblioteca <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
-   - Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit 5.
+   - Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit 5. 
 4. Sistema de contactos <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
    - Sistema con arquitectura MVC con maven para manejar contactos el cual consiste en un CRUD para el manejo de la información. Con persistencia a base de datos MySQL y Thymeleaf para el front-end.
-5. 
+5. Conexion a base de datos MySQL <a href="https://github.com/Neo3691102/ConexionBDMySQL">Ir al repositorio</a>
+ - Aplicacion con manejo de dependencias con gradle donde nos conectamos a una base de datos MySQL con JDBC
 <!--Fin Proyectos-->
 
 <p align="center">

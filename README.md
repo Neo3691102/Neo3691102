@@ -72,8 +72,7 @@
    - Aplicacion de calculadora la cual se implementan pruebas usando JUnit 5, se usan anotaciones del ciclo de pruebas como BeforeAll y Test.
   
 9. **Sistema de contactos** <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a> 
-   - Contactos es una aplicación web empresarial desarrollada con Java 25 y Spring Boot 4.0.0, que implementa un sistema CRUD completo para la gestión de contactos.
-El sistema utiliza renderizado del lado del servidor (SSR) con Thymeleaf y persistencia relacional mediante Spring Data JPA y MySQL.
+   - Contactos es una aplicación web empresarial desarrollada con Java 25 y Spring Boot 4.0.0, que implementa un sistema CRUD completo para la gestión de contactos. El sistema utiliza renderizado del lado del servidor (SSR) con Thymeleaf y persistencia relacional mediante Spring Data JPA y MySQL.
 
 10. **Patron de diseño Builder** <a href="https://github.com/Neo3691102/Builder">Ir al repositorio</a>
    - Este proyecto implementa el Patrón de Diseño Builder utilizando Java, aplicándolo a la construcción de un objeto Casa con atributos obligatorios y opcionales.

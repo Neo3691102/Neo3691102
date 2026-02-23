@@ -109,7 +109,7 @@
 <!--Fin Proyectos-->
 
 <p align="center">
-<h3>Enlace a mis redes sociales</h3>
+## Enlace a mis redes sociales
 <a href="https://www.linkedin.com/in/castanedanestor-javadev/" target="_blank">
   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>

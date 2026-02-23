@@ -46,16 +46,61 @@
 
 <!--Proyectos-->
 ## Proyectos
-1. Cliente REST <a href="https://github.com/Neo3691102/clienteRESTThymeleaf">Ir al repositorio</a>
+
+1. **Cliente REST** <a href="https://github.com/Neo3691102/clienteRESTThymeleaf">Ir al repositorio</a>
    - Aplicacion que nos ayuda a consumir servicio REST para traer informacion desde una base de datos y mostrarla a través de vistas HTML usando Thymeleaf.
-2. Servicio REST <a href="https://github.com/Neo3691102/ProyectoSpringBootBasico/tree/modulo65-serviciorest">Ir al repositorio</a>
+
+2. **Servicio REST** <a href="https://github.com/Neo3691102/ProyectoSpringBootBasico/tree/modulo65-serviciorest">Ir al repositorio</a>
    - Aplicacion maven creada con springboot con perfiles de pruebas y produccion con persistencia usando JPA/Hibernate a  bases de datos H2(pruebas) o MySQL(produccion) através de peticiones REST.
-3. Biblioteca <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
+
+3. **Biblioteca** <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
    - Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit 5. 
-4. Sistema de contactos <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
+
+4. **Sistema de contactos** <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
    - Sistema con arquitectura MVC con maven para manejar contactos el cual consiste en un CRUD para el manejo de la información. Con persistencia a base de datos MySQL y Thymeleaf para el front-end.
-5. Conexion a base de datos MySQL con JDBC <a href="https://github.com/Neo3691102/ConexionBDMySQL">Ir al repositorio</a>
-  - Aplicacion básica con manejo de dependencias con gradle donde nos conectamos a una base de datos MySQL con JDBC para mostrar informacion.
+
+5. **Persistencia con JDBC** <a href="https://github.com/Neo3691102/ConexionBDMySQL">Ir al repositorio</a>
+   - Aplicacion básica con manejo de dependencias con gradle donde nos conectamos a una base de datos MySQL con JDBC para mostrar informacion.
+
+6. **Implementacion de patron de diseño Singleton** <a href="https://github.com/Neo3691102/Singleton">Ir al repositorio</a>
+   - Uso de patron de diseño Singleton que consta de un método para poder instanciar la clase Singleton una sola vez y crear varios objetos con el mismo hashCode.
+  
+7. **Implementacion de patrones de diseño estructural** <a href="https://github.com/Neo3691102/PatronesDeDisenio_ll">Ir al repositorio</a>
+   - Uso de patrones de diseño estructural: decorator, proxy. Y patrones de comportamiento: observer y estado.
+
+8. **Pruebas unitarias con JUnit** <a href="https://github.com/Neo3691102/PruebasJUnit">Ir al repositorio</a>
+   - Aplicacion de calculadora la cual se implementan pruebas usando JUnit 5, se usan anotaciones del ciclo de pruebas como BeforeAll y Test.
+  
+9. **Sistema de contactos** <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a> 
+   - Contactos es una aplicación web empresarial desarrollada con Java 25 y Spring Boot 4.0.0, que implementa un sistema CRUD completo para la gestión de contactos.
+El sistema utiliza renderizado del lado del servidor (SSR) con Thymeleaf y persistencia relacional mediante Spring Data JPA y MySQL.
+
+10. **Patron de diseño Builder** <a href="https://github.com/Neo3691102/Builder">Ir al repositorio</a>
+   - Este proyecto implementa el Patrón de Diseño Builder utilizando Java, aplicándolo a la construcción de un objeto Casa con atributos obligatorios y opcionales.
+
+11. **Patron de diseño factory method** <a href="https://github.com/Neo3691102/FactoryMethod"></a>
+   - Este proyecto implementa el Patrón de Diseño Factory Method utilizando Java, aplicándolo a la generación de distintos tipos de facturas con diferentes porcentajes de IVA.
+
+12. **Operaciones CRUD** <a href="https://github.com/Neo3691102/operacionesCRUD">Ir al repositorio</a>
+   - Proyecto Maven donde se implementa JDBC para conectarse a BD MySQL y se hace una consulta usando interfaz statement.
+
+13. **Streams** <a href="https://github.com/Neo3691102/StreamsEjercicios">Ir al repositorio</a>
+   - Se pone en práctica los métodos para crear Streams vacios, con un unico elemento y a partir de colecciones, tambien se vieron metodos para iterar a través de ellos y tambien ejemplos de Streams finitos e infinitos con métodos intermedios.
+
+14. **Interfaces funcionales** <a href="https://github.com/Neo3691102/interfacesfuncionales">Ir al repositorio</a>
+   - Se ponen en práctica las interfaces funcionales.
+
+15. **Interfaces funcionales con expresiones lamba** <a href="https://github.com/Neo3691102/Interfaces_funcionales_con_expresiones_lamba">Ir al repositorio</a>
+   - Ejemplos de interfaces funcionales sin parametros y sin retorno, con parametros y sin retorno y con parametros y retornando algo.
+
+16. **ThreadsVirtuales, StringTemplates y PatternMatching** <a href="https://github.com/Neo3691102/ThreadsVirtuales-StringTemplates-PatternMatching">Ir al repositorio</a>
+   - Comparacion de hilos tradiciones con hilos virtuales, string templates y pattern matching
+
+17. **Manejo de excepciones** <a href="https://github.com/Neo3691102/ManejoDeExcepciones">Ir al repositorio</a>
+   - ejemplos de excepciones checked excepciones runtime (Unchecked), uso de try-catch-finally, propagación con throws, creación de excepciones personalizadas, lanzamiento manual con throw
+
+18. **Threads** <a href="https://github.com/Neo3691102/Threads">Ir a repositorio</a>
+   - Ciclo de vida de un thread, creacion de threads manualmente con executors, race condition y creacion de thread con runnable.
 <!--Fin Proyectos-->
 
 <p align="center">

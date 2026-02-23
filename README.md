@@ -48,10 +48,13 @@
 ## Proyectos
 1. Cliente REST <a href="https://github.com/Neo3691102/clienteRESTThymeleaf">Ir al repositorio</a>
    - Aplicacion que nos ayuda a consumir servicio REST para traer informacion desde una base de datos y mostrarla a través de vistas HTML usando Thymeleaf.
-2. Biblioteca <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
-   - Aplicacion gradle en capas, -Patrones de diseño Singleton y Factory Method -Base de datos MySQL -Persistencia con JPA/Hibernate -Dockerizacion -Pruebas Junit 5.
-3. Sistema de contactos <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
+2. Servicio REST <a href="https://github.com/Neo3691102/ProyectoSpringBootBasico/tree/modulo65-serviciorest">Ir al repositorio</a>
+   - Aplicacion maven creada con springboot con perfiles de pruebas y produccion con persistencia usando JPA/Hibernate a  bases de datos H2(pruebas) o MySQL(produccion) através de peticiones REST.
+3. Biblioteca <a href="https://github.com/Neo3691102/ProyectoBiblioteca">Ir al repositorio</a>
+   - Aplicacion gradle en capas, creada usando patrones de diseño Singleton y factory method con persistencia a base de datos MySQL con JPA/Hibernate, tiene dockerizacion y pruebas Junit 5.
+4. Sistema de contactos <a href="https://github.com/Neo3691102/Sistema_de_contactos">Ir al repositorio</a>
    - Sistema con arquitectura MVC con maven para manejar contactos el cual consiste en un CRUD para el manejo de la información. Con persistencia a base de datos MySQL y Thymeleaf para el front-end.
+5. 
 <!--Fin Proyectos-->
 
 <p align="center">

@@ -101,6 +101,12 @@ El sistema utiliza renderizado del lado del servidor (SSR) con Thymeleaf y persi
 
 18. **Threads** <a href="https://github.com/Neo3691102/Threads">Ir a repositorio</a>
    - Ciclo de vida de un thread, creacion de threads manualmente con executors, race condition y creacion de thread con runnable.
+
+19. **Sistema de empleados** <a href="https://github.com/Neo3691102/sistema-Empleados">Ir al repositorio</a>
+   - Sistema desarrollado bajo la arquitectura de MVC que consiste en un sistema de empleados, tenemos una interfaz donde muestra el nombre del empleado, el departamento y el sueldo junto con los botones de editar y eliminar y en el navbar un boton para agregar empleado, es un CRUD.
+
+20. **Sistema de tareas** <a href="https://github.com/Neo3691102/SistemaTareas">Ir al repositorio</a>
+   - Sistema desarrollado bajo la arquitectura de capas para el manejo de un sistema de gestion de tareas, se pueden realizar operaciones CRUD para operar con los registros en una base de datos, para el front-end se usa Java FX.
 <!--Fin Proyectos-->
 
 <p align="center">

@@ -18,8 +18,8 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,html,css,sass,bootstrap,js,react,styledcomponents,jquery,nodejs,ts,java,spring,maven,gradle,hibernate,mysql,postgresql,mongodb,docker,figma,linux,postman,vscode,firebase,netlify,npm,vite,windows" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,styledcomponents,jquery,nodejs,java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,aws,firebase,netlify,git,postman,npm,vite,vscode,figma,linux,ubuntu,windows,vim" />
+</a>
 </p>
 
 <!--- stats & Trophy (start) -->
